@@ -7,8 +7,15 @@
 <p align="center">
   I'm a passionate Full Stack Developer focused on building scalable,
   responsive, and user-friendly web applications.
-</p> <hr>
+</p> 
+<p align="center">
+  <a href="https://github.com/riad924">
+    <img src="https://komarev.com/ghpvc/?username=riad924&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
+---
+👩‍💻 About Me
 - 🌱 Currently improving my Full Stack Development skills.
 - 💻 Building responsive web applications with React.js and Tailwind CSS.
 - ⚙️ Developing RESTful APIs using Node.js and Express.js.
@@ -16,32 +23,56 @@
 - 🎯 Focused on building real-world projects and solving problems.
 - 📍 Based in Bangladesh.
 
+---
 
+## 🛠️ Technologies & Tools
 
-<img width="1536" height="1024" alt="Neon Full-Stack Technology Grid" src="https://github.com/user-attachments/assets/58885f64-e258-435d-8009-e80bd6a1cc37" />
+### Front-End Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
+</p>
 
-### 🚀 Featured Projects
+### Back-End Development
 
-- **My Portfolio Website** — Full Stack personal portfolio built with React.js, Tailwind CSS, Node.js, Express.js, and MongoDB.
-- **Bike Zone Website** — Responsive motorcycle website with modern UI.
-- **Services Office Website** — Modern and responsive business website.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riad924&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riad924&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riad924&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect With Me
-
-- GitHub: [riad924](https://github.com/riad924)
-- LinkedIn: [Md Riad Bhuiyan](https://www.linkedin.com/in/riad-bhuiyan-5a5464331/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riad924&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-⭐️ Thanks for visiting my profile!
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/riad924">
+    GitHub
+  </a>
+  |
+  <a href="https://www.linkedin.com/in/riad-bhuiyan-5a5464331/">
+    LinkedIn
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
