@@ -1,102 +1,69 @@
+# Hi, I'm Riad Bhuiyan 👋
 
-<h1 align="center">Hi 👋, I'm Md Riad Bhuiyan</h1>
+### Full Stack Developer | React.js | Node.js | Express.js | MongoDB
 
-<h3 align="center">
-  🚀 full stack developer(MERN)
-</h3>
+I'm a passionate Full Stack Developer focused on building scalable, responsive, and user-friendly web applications. I enjoy developing modern frontend interfaces and robust backend systems.
 
-<p align="center">
-  Passionate about building responsive, modern and
-  user-friendly web applications.
-</p>
-
-<p align="center">
-  <a href="https://github.com/riad924">
-    <img src="https://komarev.com/ghpvc/?username=riad924&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  </a>
-</p>
+- 🌱 Currently improving my Full Stack Development skills.
+- 💻 Building responsive web applications with React.js and Tailwind CSS.
+- ⚙️ Developing RESTful APIs using Node.js and Express.js.
+- 🗄️ Working with MongoDB for database management.
+- 🎯 Focused on building real-world projects and solving problems.
+- 📍 Based in Bangladesh.
 
 ---
 
-## 👨‍💻 About Me
+### 🛠️ Tech Stack
 
-- 🌱 Currently learning React.js and modern Front-End development.
-- 💻 Building responsive websites using HTML, CSS, JavaScript and Tailwind CSS.
-- 🚀 Exploring Node.js, Express.js and MongoDB.
-- 🎯 Interested in building real-world web applications.
-- 🤝 Open to collaborating on Front-End projects.
-- 📫 Reach me at: your-email@example.com
+**Frontend Development:**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
 
----
+**Backend Development:**
+- Node.js
+- Express.js
+- RESTful APIs
+- JWT Authentication
+- bcrypt.js
 
-## 🛠️ Technologies & Tools
+**Database:**
+- MongoDB
+- Mongoose
 
-### Front-End Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
-</p>
-
-### Back-End Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+**Tools & Technologies:**
+- Git & GitHub
+- VS Code
+- Postman
+- Vite
+- npm
+- Chrome DevTools
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-### 1. Personal Portfolio Website
-
-- Built with React, Vite and Tailwind CSS.
-- Responsive design.
-- REST API integration.
-- Authentication system.
-
-🔗 [Live Demo](https://my-portfolio-tailwind-t253.vercel.app/)
-
-🔗 [GitHub Repository](https://github.com/riad924/my-portfolio-tailwind)
-
-### 2. Other Projects
-
-Add your best projects here with their live demo
-and GitHub repository links.
+- **My Portfolio Website** — Full Stack personal portfolio built with React.js, Tailwind CSS, Node.js, Express.js, and MongoDB.
+- **Bike Zone Website** — Responsive motorcycle website with modern UI.
+- **Services Office Website** — Modern and responsive business website.
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riad924&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riad924&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riad924&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riad924&layout=compact&theme=tokyonight)
 
 ---
 
-## 🤝 Connect With Me
+### 📫 Connect With Me
 
-<p>
-  <a href="https://github.com/riad924">
-    GitHub
-  </a>
-  |
-  <a href="https://www.linkedin.com/in/riad-bhuiyan-5a5464331/">
-    LinkedIn
-  </a>
-</p>
+- GitHub: [riad924](https://github.com/riad924)
+- LinkedIn: [Md Riad Bhuiyan](https://www.linkedin.com/in/riad-bhuiyan-5a5464331/)
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+⭐️ Thanks for visiting my profile!
