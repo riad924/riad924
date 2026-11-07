@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Riad Bhuiyan 👋</h1>
 
-<p align="center">
+<h4 align="center">
   <strong>Full Stack Developer (MERN) | React.js | Node.js | Express.js | MongoDB</strong>
-</p>
+</h4>
 
 <p align="center">
   I'm a passionate Full Stack Developer focused on building scalable,
@@ -28,19 +28,19 @@
 
 <h1>🛠️ Technologies & Tools</h1>
 
- <h2>Front-End Development</h2>
+ <h3>Front-End Development</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
- Back-End Development
+<h3></h3> Back-End Development </h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-Tools
+<h3>Tools</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
