@@ -8,7 +8,7 @@
   I'm a passionate Full Stack Developer focused on building scalable,
   responsive, and user-friendly web applications. I enjoy developing
   modern frontend interfaces and robust backend systems.
-</p>
+</p> <hr>
 
 - 🌱 Currently improving my Full Stack Development skills.
 - 💻 Building responsive web applications with React.js and Tailwind CSS.
