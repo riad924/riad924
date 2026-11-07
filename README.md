@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Riad Bhuiyan 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | React.js | Node.js | Express.js | MongoDB</strong>
+  <strong>Full Stack Developer (MERN) | React.js | Node.js | Express.js | MongoDB</strong>
 </p>
 
 <p align="center">
   I'm a passionate Full Stack Developer focused on building scalable,
   responsive, and user-friendly web applications.
 </p> 
+
 <p align="center">
   <a href="https://github.com/riad924">
     <img src="https://komarev.com/ghpvc/?username=riad924&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
@@ -25,21 +26,21 @@
 
 ---
 
-## 🛠️ Technologies & Tools
+🛠️ Technologies & Tools
 
-### Front-End Development
+ Front-End Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
-### Back-End Development
+ Back-End Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools
+Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
@@ -47,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Statistics
+ 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riad924&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -59,7 +60,7 @@
 
 ---
 
-## 🤝 Connect With Me
+ 🤝 Connect With Me
 
 <p>
   <a href="https://github.com/riad924">
