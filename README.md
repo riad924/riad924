@@ -1,8 +1,14 @@
-# Hi, I'm Riad Bhuiyan 👋
+<h1 align="center">Hi, I'm Riad Bhuiyan 👋</h1>
 
-### Full Stack Developer | React.js | Node.js | Express.js | MongoDB
+<p align="center">
+  <strong>Full Stack Developer | React.js | Node.js | Express.js | MongoDB</strong>
+</p>
 
-I'm a passionate Full Stack Developer focused on building scalable, responsive, and user-friendly web applications. I enjoy developing modern frontend interfaces and robust backend systems.
+<p align="center">
+  I'm a passionate Full Stack Developer focused on building scalable,
+  responsive, and user-friendly web applications. I enjoy developing
+  modern frontend interfaces and robust backend systems.
+</p>
 
 - 🌱 Currently improving my Full Stack Development skills.
 - 💻 Building responsive web applications with React.js and Tailwind CSS.
@@ -11,7 +17,7 @@ I'm a passionate Full Stack Developer focused on building scalable, responsive, 
 - 🎯 Focused on building real-world projects and solving problems.
 - 📍 Based in Bangladesh.
 
----
+
 
 ### 🛠️ Tech Stack
 
