@@ -16,17 +16,20 @@
 </p>
 
 ---
-<h1>👩‍💻 About Me</h1>
-- 🌱 Currently improving my Full Stack Development skills.
-- 💻 Building responsive web applications with React.js and Tailwind CSS.
-- ⚙️ Developing RESTful APIs using Node.js and Express.js.
-- 🗄️ Working with MongoDB for database management.
-- 🎯 Focused on building real-world projects and solving problems.
-- 📍 Based in Bangladesh.
+<h2>👩‍💻 About Me</h2>
+
+<ul>
+  <li>🌱 Currently improving my Full Stack Development skills.</li>
+  <li>💻 Building responsive web applications with React.js and Tailwind CSS.</li>
+  <li>⚙️ Developing RESTful APIs using Node.js and Express.js.</li>
+  <li>🗄️ Working with MongoDB for database management.</li>
+  <li>🎯 Focused on building real-world projects and solving problems.</li>
+  <li>📍 Based in Bangladesh.</li>
+</ul>
 
 ---
 
-<h1>🛠️ Technologies & Tools</h1>
+<h2>🛠️ Technologies & Tools</h2>
 
  <h3>Front-End Development</h3>
 
@@ -34,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
-<h3></h3> Back-End Development </h3>
+<h3> Back-End Development </h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
@@ -48,7 +51,7 @@
 
 ---
 
- 📊<h1> GitHub Statistics</h1>
+ 📊<h2> GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riad924&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -60,7 +63,7 @@
 
 ---
 
- <h1>🤝 Connect With Me</h1>
+ <h2>🤝 Connect With Me</h2>
 
 <p>
   <a href="https://github.com/riad924">
