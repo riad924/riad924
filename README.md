@@ -16,7 +16,7 @@
 </p>
 
 ---
-👩‍💻 About Me
+<h1>👩‍💻 About Me</h1>
 - 🌱 Currently improving my Full Stack Development skills.
 - 💻 Building responsive web applications with React.js and Tailwind CSS.
 - ⚙️ Developing RESTful APIs using Node.js and Express.js.
@@ -26,9 +26,9 @@
 
 ---
 
-🛠️ Technologies & Tools
+<h1>🛠️ Technologies & Tools</h1>
 
- Front-End Development
+ <h2>Front-End Development</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
@@ -48,7 +48,7 @@ Tools
 
 ---
 
- 📊 GitHub Statistics
+ 📊<h1> GitHub Statistics</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riad924&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -60,7 +60,7 @@ Tools
 
 ---
 
- 🤝 Connect With Me
+ <h1>🤝 Connect With Me</h1>
 
 <p>
   <a href="https://github.com/riad924">
