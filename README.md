@@ -6,8 +6,7 @@
 
 <p align="center">
   I'm a passionate Full Stack Developer focused on building scalable,
-  responsive, and user-friendly web applications. I enjoy developing
-  modern frontend interfaces and robust backend systems.
+  responsive, and user-friendly web applications.
 </p> <hr>
 
 - 🌱 Currently improving my Full Stack Development skills.
@@ -19,35 +18,8 @@
 
 
 
-### 🛠️ Tech Stack
+<img width="1536" height="1024" alt="Neon Full-Stack Technology Grid" src="https://github.com/user-attachments/assets/58885f64-e258-435d-8009-e80bd6a1cc37" />
 
-**Frontend Development:**
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React.js
-- Tailwind CSS
-
-**Backend Development:**
-- Node.js
-- Express.js
-- RESTful APIs
-- JWT Authentication
-- bcrypt.js
-
-**Database:**
-- MongoDB
-- Mongoose
-
-**Tools & Technologies:**
-- Git & GitHub
-- VS Code
-- Postman
-- Vite
-- npm
-- Chrome DevTools
-
----
 
 ### 🚀 Featured Projects
 
