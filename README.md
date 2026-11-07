@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there I'm Md Riad Bhuiyan👋
 
-<!--
-**riad924/riad924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer (MERN)
 
-Here are some ideas to get you started:
+Building scalable Web & Mobile Applications with MERN, 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
