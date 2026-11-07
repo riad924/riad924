@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Riad Bhuiyan</h1>
 
 <h3 align="center">
-  Aspiring Front-End Developer | React Developer
+  🚀 full stack developer(MERN)
 </h3>
 
 <p align="center">
